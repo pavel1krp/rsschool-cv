@@ -1,3 +1,9 @@
 html{
 background-color:rgba(0,0,0,5)
 }
+body {
+    max-width: 1024px;
+    text-align: center; 
+    margin: auto;
+    font-weight: 700;
+    }
